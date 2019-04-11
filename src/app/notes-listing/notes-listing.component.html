@@ -1,0 +1,21 @@
+<table class="table mt-5">
+  <thead>
+    <tr>
+      <th scope="col">Title</th>
+      <th scope="col">Description</th>
+      <th scope="col">Actions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngIf="notes?.length == 0"><td>No data</td></tr>
+    <tr *ngFor="let note of notes">
+      <td>{{ note.title }}</td>
+      <td>{{ note.description }}</td>
+      <td>
+        <a href="#" class="m-1" (click)="edit(note)">Edit</a>
+        <a href="#" class="m-2" (click)="delete(note)">Delete</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<button type="button" class="btn btn-primary mb-2" (click)="new()">New</button>

@@ -1,0 +1,14 @@
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\bin\Debug\netcoreapp2.1\AngularFirstSteps.deps.json
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\bin\Debug\netcoreapp2.1\AngularFirstSteps.runtimeconfig.json
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\bin\Debug\netcoreapp2.1\AngularFirstSteps.runtimeconfig.dev.json
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\bin\Debug\netcoreapp2.1\AngularFirstSteps.dll
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\bin\Debug\netcoreapp2.1\AngularFirstSteps.pdb
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.csprojAssemblyReference.cache
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.csproj.CoreCompileInputs.cache
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.RazorAssemblyInfo.cache
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.RazorAssemblyInfo.cs
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.AssemblyInfoInputs.cache
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.AssemblyInfo.cs
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.RazorTargetAssemblyInfo.cache
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.dll
+C:\simpletalk\AngularFirstSteps\AngularFirstSteps\obj\Debug\netcoreapp2.1\AngularFirstSteps.pdb
